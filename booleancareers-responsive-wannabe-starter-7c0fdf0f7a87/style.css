@@ -100,3 +100,13 @@ img {
     background-color: #f2f2cd;
   }
 }
+
+@media (max-width: 768px) {
+  body {
+    background-color: lavender;
+  }
+
+  .container.grey {
+    background-color: lavender;
+  }
+}
